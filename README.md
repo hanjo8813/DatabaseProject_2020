@@ -6,6 +6,8 @@
 
 <img src="Reference_file/s.png">
 
+<br>
+
 ## 팀원
 
 |이름|기여|
@@ -30,6 +32,7 @@
 <br>
 
 ## 주요 기능
+<br>
 
 |<img src="Reference_file/3.png">|
 |:--:|
@@ -57,17 +60,17 @@
 <br>
 
 ## Diagram
+<br>
 
 > ### Schema Diagram
-<br>
 <img src="Reference_file/ds.png">
 
 <br>
 
 > ### System Flow-chart (Demo)
-<br>
 <img src="Reference_file/sf.png">
 
+<br>
 
 ## 개발 정보
 
