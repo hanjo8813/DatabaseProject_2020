@@ -32,7 +32,6 @@
 <br>
 
 ## 주요 기능
-<br>
 
 |<img src="Reference_file/3.png">|
 |:--:|
@@ -73,6 +72,5 @@
 <br>
 
 ## 개발 정보
-
 <br>
 <img src="Reference_file/e.png">
